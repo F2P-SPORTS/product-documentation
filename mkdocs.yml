@@ -1,0 +1,110 @@
+site_name: FanToPark Product Docs
+site_url: https://supersixsports.github.io/product-documentation
+site_description: Documentation for FanToPark product
+site_author: FanToPark Team
+
+nav:
+  - Home: index.md
+  - Coach App:
+      - Overview: coach-app/overview.md
+      - User:
+        - Auth: coach-app/user/auth.md
+        - Profile Management: coach-app/user/profile-management.md                  
+      - Batch: 
+        - Batch Management: coach-app/batch/batch-management.md
+        - Attendance: coach-app/batch/attendance.md
+        - Location Management: coach-app/batch/locations.md
+        - Player Review: coach-app/batch/performance-review.md
+      - Fees: 
+        - Fee Management: coach-app/fees/fee-management.md        
+      - Leads: 
+        - Leads Management: coach-app/leads/lead-management.md        
+      - Player:
+        - Player Management: coach-app/player/player-management.md        
+        - Report Management: coach-app/player/report-management.md        
+      - Tools: 
+        - Fixture Generator: coach-app/utilities/fixtures.md        
+        - BMI Tracker: coach-app/utilities/bmi.md        
+        - Poster Generator: coach-app/utilities/posters.md        
+      - Subscription: 
+        - Subscription Management: coach-app/subscription/overview.md 
+        - Payment Flow: coach-app/subscription/payment-flow.md 
+      - Academy Flow: 
+        - Overview: coach-app/academy-flow/overview.md
+        - Onboarding: coach-app/academy-flow/onboarding.md
+        - Invite and Manage Coaches: coach-app/academy-flow/invite.md
+        - Academy Controls Batch/Player: coach-app/academy-flow/academy-batches.md
+        - Dual Coach Profile: coach-app/academy-flow/dual-coach-profile.md
+        - Streamlined Approval Flow: coach-app/academy-flow/two-way-approval.md
+        - Academy View: coach-app/academy-flow/academy-view.md
+      - Tournament Planner: 
+        - Overview: coach-app/tournament/overview.md 
+        - Flow: coach-app/tournament/flow.md 
+        
+  - Student App:
+      - Overview: student-app/overview.md
+  - Campanion SDK:
+      - Overview: campanion-app/overview.md
+  - Admin Panel :
+      - Overview: admin-panel/overview.md
+  - Product Research Docs :
+      - Overview: product-research/overview.md
+      - Coach Interviews: product-research/coach-interviews.md
+  - Timeline & Roadmap:
+      - Overview: timeline/overview.md
+
+  - Logout: logout.md
+
+
+theme:
+  name: material
+  logo: assets/logo.png  # Ensure the logo path is correct
+  favicon: assets/favicon.ico  # Optional, if you want to include a favicon
+  palette:
+    primary: 'indigo'
+    accent: 'pink'  # You can customize primary and accent colors
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - navigation.tabs
+    - content.math
+    # - navigation.sections
+    - search.suggest
+
+copyright: "© 2024 Super Six Products"
+
+extra:
+  generator: false 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FanToPark
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/FanToPark
+      
+
+extra_css:
+  - css/custom.css
+extra_javascript:
+  - js/protect.js
+  - js/logout.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - mdx_math
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: true
+  
