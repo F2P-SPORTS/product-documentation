@@ -1902,8 +1902,8 @@
 
 <h1 id="logging-out">Logging out...<a class="headerlink" href="#logging-out" title="Permanent link">&para;</a></h1>
 <script>
-    const basePath = window.location.pathname.split("/")[1];
-    const fullBaseUrl = window.location.origin + "/" + basePath;
+    const basePath = window.location.pathname.split("/")[1];    
+    const fullBaseUrl = window.location.origin
     localStorage.removeItem('authenticated');
     window.location.href = fullBaseUrl;  // Redirect to login page
 </script>
