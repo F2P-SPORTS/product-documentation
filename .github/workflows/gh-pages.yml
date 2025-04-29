@@ -24,6 +24,9 @@ jobs:
 
       - name: Build the MkDocs site
         run: mkdocs build --clean
+      
+      - name: Add CNAME for custom domain
+        run: echo 'docs.seatstand.com' > ./site/CNAME 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4  # Ensure you're using the latest version
