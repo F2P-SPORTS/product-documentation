@@ -40,6 +40,8 @@ nav:
       - Tournament Planner: 
         - Overview: coach-app/tournament/overview.md 
         - Flow: coach-app/tournament/flow.md 
+      - Invoicing:
+        - Digital Invoice: coach-app/invoicing/digital-invoice.md 
         
   - Student App:
       - Overview: student-app/overview.md
