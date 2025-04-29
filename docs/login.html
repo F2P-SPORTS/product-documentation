@@ -111,7 +111,7 @@
       if (enteredUsername === storedUsername && enteredPassword === storedPassword) {
         localStorage.setItem('authenticated', 'true');
         // Redirect to the home page with the correct base path
-        window.location.href = `${fullBaseUrl}`;
+        window.location.href = window.location.origin;
       } else {
         errorMessage.style.display = 'block';  // Show error message if login fails
       }
