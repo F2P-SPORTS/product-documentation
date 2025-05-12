@@ -45,6 +45,11 @@ nav:
         
   - Student App:
       - Overview: student-app/overview.md
+      - User Management: student-app/user-management.md
+      - Coach Management: student-app/coach-management.md
+      - Performanace Monitoring: student-app/performance-monitoring.md
+      - Feed Guide: student-app/feed-guide.md
+      - Additional Features: student-app/additional-features.md
   - Campanion SDK:
       - Overview: campanion-app/overview.md
   - Admin Panel :

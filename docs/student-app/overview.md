@@ -2,7 +2,7 @@
 
 ![Draft](https://img.shields.io/badge/Status-Draft-yellow)
 
-The **Student App** is designed to facilitate seamless interactions between students, parents, and coaches. It provides tools for onboarding, batch management, performance tracking, and more. Below is an overview of its key features:
+The CoachDekho Parents App is a comprehensive mobile platform designed to empower parents in managing their children's coaching journey. It provides robust features for user management, coach interactions, performance monitoring, payments, communication, and educational content. This documentation is a detailed blueprint for the app’s functionality, user flows, technical specifications, and design considerations, serving as the foundation for UI/UX design and product development. Each section is elaborated with depth to define the product’s trajectory, including flow diagrams using Mermaid and summary tables.
 
 ---
 
