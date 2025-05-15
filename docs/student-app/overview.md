@@ -1,7 +1,7 @@
 
 ![Draft](https://img.shields.io/badge/Status-Draft-yellow)
 
-The CoachDekho Parents App is a comprehensive mobile platform designed to empower parents in managing their children's coaching journey. It provides robust features for user management, coach interactions, performance monitoring, communication, and educational content. This documentation is a detailed blueprint for the app’s functionality, user flows and design considerations, serving as the foundation for UI/UX design and product development. Each section is elaborated with depth to define the product's features.
+The FanToPark Parents App is a comprehensive mobile platform designed to empower parents in managing their children's coaching journey. It provides robust features for user management, coach interactions, performance monitoring, communication, and educational content. This documentation is a detailed blueprint for the app’s functionality, user flows and design considerations, serving as the foundation for UI/UX design and product development. Each section is elaborated with depth to define the product's features.
 
 <!-- ---
 
