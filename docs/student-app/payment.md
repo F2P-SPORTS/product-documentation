@@ -1,5 +1,8 @@
 
-## 7. Payment (with Razorpay Route Payment) 
+# 7. Payment (with Razorpay Route Payment) 
+
+![Draft](https://img.shields.io/badge/Status-Draft-yellow)
+
 **Note**: this feature will mainly be for Academies at start, as we'll need to guide/help Academy to link there account to route accounts in razorpay for direct payment. we'll need to add something similar in coach onboarding flow for enabling this feature for coaches before launching it for coaches.
 
 The **Payment** feature enables parents to pay coaching fees directly to academies/coaches, with a platform charge for FanToPark, using Razorpay Route for real-time fund splitting. Card saving and tokenization are excluded, relying on Razorpay’s payment service.
