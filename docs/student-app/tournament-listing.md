@@ -1,8 +1,10 @@
 
 
-## 5. Tournament Listing
+# 5. Tournament Guide
 
-The **Tournament Listing** feature enables parents to discover upcoming sports tournaments in their city, with filtering by sport, age, and other criteria, and provides external registration links to the tournament’s official website, avoiding in-app registration.
+![Draft](https://img.shields.io/badge/Status-Draft-yellow)
+
+The **Tournament Guide** feature enables parents to discover upcoming sports tournaments in their city, with filtering by sport, age, and other criteria, and provides external registration links to the tournament’s official website, avoiding in-app registration.
 
 ### 5.1 Purpose
 To offer a platform for parents to browse and filter sports tournaments, directing them to official websites for registration, enhancing accessibility to competitive opportunities while integrating with the Coach App.
