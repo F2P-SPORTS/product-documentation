@@ -1,6 +1,5 @@
 
 # 8. Push Notification Uses and Notification Section
-
 ![Draft](https://img.shields.io/badge/Status-Draft-yellow)
 
 The **Push Notification Uses and Notification Section** feature delivers push notifications for updates and changes only, with a 4-month lifespan, and provides an in-app notification hub for parents to manage communications.
