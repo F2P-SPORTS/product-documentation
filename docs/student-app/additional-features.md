@@ -1,9 +1,9 @@
-# 5. Additional Features
+# 6. Additional Features
 ![Draft](https://img.shields.io/badge/Status-Draft-yellow)
 
 The Additional Features module enhances the app with tools for document management, scheduling, and attendance.
 
-### 5.1 Document Management System
+### 6.1 Document Management System
 - **Purpose**: To organize and store coaching-related documents securely.
 - **Detailed Functionality**:
     - **Documents**:
@@ -45,7 +45,7 @@ graph TD
 | Features | Upload, organize, search | File preview, tag filters |
 | Edge Cases | Corrupted files, bulk uploads | Drag-and-drop |
 
-### 5.2 Calendar Integration
+### 6.2 Calendar Integration
 - **Purpose**: To sync coaching schedules with parents’ calendars.
 - **Detailed Functionality**:
     - **Features**:
@@ -82,7 +82,7 @@ graph TD
 | Customization | Color-code by child/sport | Event pop-ups |
 | Edge Cases | Sync conflicts, offline | Sync status indicator |
 
-### 5.3 Attendance Tracking
+### 6.3 Attendance Tracking
 - **Purpose**: To monitor children’s session attendance.
 - **Detailed Functionality**:
     - **Features**:

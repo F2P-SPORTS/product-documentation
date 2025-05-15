@@ -49,7 +49,10 @@ nav:
       - Coach Management: student-app/coach-management.md
       - Performanace Monitoring: student-app/performance-monitoring.md
       - Feed Guide: student-app/feed-guide.md
+      - Tournament Guide: student-app/tournament-listing.md
       - Additional Features: student-app/additional-features.md
+      - Fee Payment: student-app/payment.md
+      - Notifications: student-app/notifications.md
   - Campanion SDK:
       - Overview: campanion-app/overview.md
   - Admin Panel :
