@@ -42,6 +42,8 @@ nav:
         - Flow: coach-app/tournament/flow.md 
       - Invoicing:
         - Digital Invoice: coach-app/invoicing/digital-invoice.md 
+      - Venue Booking: coach-app/venue-booking/overview.md 
+        
         
   - Student App:
       - Overview: student-app/overview.md
@@ -53,6 +55,10 @@ nav:
       - Additional Features: student-app/additional-features.md
       - Fee Payment: student-app/payment.md
       - Notifications: student-app/notifications.md
+      - Venue Booking: 
+         - Overview: student-app/venue-booking/overview.md
+         - Coach: student-app/venue-booking/coach.md
+         - Parent: student-app/venue-booking/parent.md
   - Campanion SDK:
       - Overview: campanion-app/overview.md
   - Admin Panel :
