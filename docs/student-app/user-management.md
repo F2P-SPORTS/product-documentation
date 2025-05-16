@@ -1,5 +1,5 @@
 # 1. User Management & Profiles
-![Draft](https://img.shields.io/badge/Status-Draft-yellow)
+![Draft](https://img.shields.io/badge/Status-Draft-yellow) 
 
 The **User Management & Profiles** module is the cornerstone of the CoachDekho Parents App, enabling secure onboarding, flexible profile management, and granular privacy controls. With the new requirement, the module must support scenarios where multiple parents (e.g., mother, father, guardian) can link to and manage the same child’s profile, ensuring seamless coordination and data consistency. This module integrates with the existing Coach App, where coaches already interact with child profiles, requiring synchronized data and access control.
 
